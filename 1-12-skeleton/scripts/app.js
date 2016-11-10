@@ -2,7 +2,7 @@
 (function() {
   'use strict';
 
-  var weatherAPIUrlBase = 'https://publicdata-weather.firebaseio.com/';
+  var weatherAPIUrlBase = 'https://api.darksky.net/forecast/728f1b8feadb65483486894f32018d7c/';
 
   var app = {
     isLoading: true,

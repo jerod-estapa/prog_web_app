@@ -1,0 +1,11 @@
+{
+  "name": "1-12-skeleton",
+  "version": "1.0.0",
+  "description": "Progressive weather app",
+  "main": "scripts/app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Jerod Estapa",
+  "license": "MIT"
+}
